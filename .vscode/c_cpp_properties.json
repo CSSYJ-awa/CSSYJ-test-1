@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "D:\\Program Files\\TDM-GCC\\bin\\g++.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerArgs": [
+                ""
+            ],
+            "cStandard": "c23"
+        }
+    ],
+    "version": 4
+}
