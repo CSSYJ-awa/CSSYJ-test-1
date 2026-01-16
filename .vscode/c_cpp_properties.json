@@ -3,14 +3,18 @@
         {
             "name": "windows-gcc-x64",
             "includePath": [
+                "${workspaceFolder}/external/glad/include",
+                "${workspaceFolder}/external/glfw/include",
+                "${workspaceFolder}/external/glm",
                 "${workspaceFolder}/**"
             ],
-            "compilerPath": "D:\\Program Files\\TDM-GCC\\bin\\g++.exe",
+            "compilerPath": "g++.exe",
             "intelliSenseMode": "windows-gcc-x64",
             "compilerArgs": [
                 ""
             ],
-            "cStandard": "c23"
+            "cStandard": "c11",
+            "cppStandard": "c++17"
         }
     ],
     "version": 4

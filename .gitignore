@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# 排除CMake构建和依赖文件夹
+build/
+external/
+bin/
+GZD-TEST/
+
