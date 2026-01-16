@@ -14,6 +14,6 @@ int main() {
         n = to_string(sum); // 转换为字符串，继续处理
     }
     
-    cout << n << endl; // 输出数根
+    cout << n << endl; // 输出数根 awa
     return 0;
 }
